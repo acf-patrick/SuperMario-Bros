@@ -1,0 +1,5 @@
+#ifndef RESSOURCE
+#define RESSOURCE
+
+MYICON ICON "data/graphic/mario.ico"
+#endif // RESSOURCE
